@@ -4,4 +4,4 @@ The application has five options to choose from -
 3) Get Embeddings - Displays the embeedings values for the detected person
 4) Find Face - Will find the same person in the "new_dataset" folder and will display the name if exists
 
-The only condition required is that the person images in the "new_dataset" folder should have the file name in format "firstname_lastname.jpg"
+The only condition required is that the person images in the "new_dataset" folder should have the file name in format "firstname_lastname.jpg" and "new_dataset" should be in the same directory
